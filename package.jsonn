@@ -1,5 +1,5 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] -MD",
   "version": "2.0,1",
   "description": "WhatsApp Using Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "vihangayt.",
+  "author": "   𝒉𝒂𝒋𝒂𝒓🤍    𝒛𝒂𝒌𝒂𝒓𝒊𝒂🖤",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
