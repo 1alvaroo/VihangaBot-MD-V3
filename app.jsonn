@@ -1,5 +1,5 @@
 {
-    "name": "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]  MD",
+    "name": "ᴀʟᴠᴀʀᴏ(𝒛𝒂𝒌𝒂𝒓𝒊𝒂)-ʟᴏꜱɪɴᴅᴀ (𝒉𝒂𝒋𝒂𝒓)",
     "description": "whatsapp md bot build with nodejs",
     "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
     "logo": "https://telegra.ph/file/8d0559218f6591a16105b.jpg",
@@ -121,13 +121,13 @@ https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D*"
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]"
+  "value" : "ᴀʟᴠᴀʀᴏ(𝒛𝒂𝒌𝒂𝒓𝒊𝒂)-ʟᴏꜱɪɴᴅᴀ (𝒉𝒂𝒋𝒂𝒓)"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] "
+  "value" : "ᴀʟᴠᴀʀᴏ(𝒛𝒂𝒌𝒂𝒓𝒊𝒂)-ʟᴏꜱɪɴᴅᴀ (𝒉𝒂𝒋𝒂𝒓) "
     },
       
 "GROUP_LINK" :{
@@ -151,7 +151,7 @@ https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D*"
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]*"
+  "value" : "*ᴀʟᴠᴀʀᴏ(𝒛𝒂𝒌𝒂𝒓𝒊𝒂)-ʟᴏꜱɪɴᴅᴀ (𝒉𝒂𝒋𝒂𝒓)*"
 },
     
 "IMG_URL" :{
