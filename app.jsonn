@@ -8,14 +8,14 @@
   
 "WELCOME_AND_GOODBYE" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
-    "required" : true,
-  "value" : "true"
+    "required" : false,
+  "value" : "false"
     },
   
         "AUTO_BIO" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
-    "required" : true,
-  "value" : "true"
+    "required" : false,
+  "value" : "false"
     },
                 "INBOXBLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
@@ -26,13 +26,13 @@
                         "ANTIBAD" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
    
                                 "ANTIVIEWONCE" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
        
                                         "ANTILINK" :{
@@ -44,7 +44,11 @@
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
-  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+  "value" : "*Sorry... حظر تلقائي 
+ام صوري مي ممنوع تستعمل بوت ف بريفي
+
+جروب شات د البوت
+https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D*"
     },
         
         "WELCOME_MSG" :{
@@ -62,7 +66,8 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*𝒐𝒏𝒍𝒚 {ʜᴀᴊᴀʀ} 𝒅9𝒍𝒃𝒊 𝒇𝒐𝒓 𝒆𝒗𝒆𝒓, ɪ ʟᴏᴠᴇᴅ ʜᴇʀ ᴏɴᴄᴇ ᴀɴᴅ ᴡᴇ ᴍᴀᴅᴇ ɪᴛ ꜰᴏʀᴇᴠᴇʀ 10.4💍⃢❤️
+الحاضي من غير ربي قواد😻*"
     },
         
 "CALL_BLOCK" :{
@@ -116,7 +121,7 @@
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] 𝐌𝐃"
+  "value" : "ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]"
     },
       
 "OWNER_NAME" :{
@@ -128,37 +133,37 @@
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : ".      𝒉𝒂𝒋𝒂𝒓🤍    |𝒛𝒂𝒌𝒂𝒓𝒊𝒂🖤"
+  "value" : "      𝒉𝒂𝒋𝒂𝒓🤍    𝒛𝒂𝒌𝒂𝒓𝒊𝒂🖤"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] MD*"
+  "value" : "*BY ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]*"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://telegra.ph/file/94ea9f68c9f6e267ef579.jpg"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
-    "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "required" : false,
+    "value" :"https://wa.me/212777466518"
     }
     },
   
